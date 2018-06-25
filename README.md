@@ -1,8 +1,8 @@
 
-# samanemvc
-# Ngor SECK
+# amadoumvc
+# Amadou TRAORE
 # PHP 
 # MVC version 1.1
-# SamaneMVC is a PHP framework
-# ngorsecka@gmail.com
-# samanemvc@gmail.com
+# amadoumvc is a PHP framework
+# boory24@gmail.com
+# boory24@gmail.com
