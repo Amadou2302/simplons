@@ -1,0 +1,16 @@
+{
+    "name": "amadou/amadoumvc",
+    "description": "amadouMVC is a PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "amadoutraoreframework",
+            "email": "boory24@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+       "require": {
+           "smarty/smarty": "~3.1"
+    }
+}
